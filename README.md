@@ -1,2 +1,10 @@
-# my-personal-project
-My first GitHub personal project
+# \# My Personal Project
+
+# 
+
+# This is my personal project created to practice Git and GitHub basics.
+
+# 
+
+
+
